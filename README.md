@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## output
- ![Screenshot 2023-11-20 133350](https://github.com/Janani23014108/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/146822085/94e6ae53-7bcb-44f9-8270-24402079315e)
+ ![Screenshot 2023-11-20 133350](https://github.com/Janani23014108/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/146822085/c99ba38c-cd63-4f5c-af7f-7deae6b25087)
+
 
 
 
